@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ZeusLogistics/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ZeusLogistics/static/js/main.25452b00.chunk.js",
-    "main.js.map": "/ZeusLogistics/static/js/main.25452b00.chunk.js.map",
+    "main.js": "/ZeusLogistics/static/js/main.f0576fba.chunk.js",
+    "main.js.map": "/ZeusLogistics/static/js/main.f0576fba.chunk.js.map",
     "runtime-main.js": "/ZeusLogistics/static/js/runtime-main.2cfc9b67.js",
     "runtime-main.js.map": "/ZeusLogistics/static/js/runtime-main.2cfc9b67.js.map",
     "static/js/2.2bab1635.chunk.js": "/ZeusLogistics/static/js/2.2bab1635.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2cfc9b67.js",
     "static/js/2.2bab1635.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.25452b00.chunk.js"
+    "static/js/main.f0576fba.chunk.js"
   ]
 }
